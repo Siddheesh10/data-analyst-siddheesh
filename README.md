@@ -126,10 +126,15 @@ o	AWS Glue DataBrew for data cleaning and preparation
 3.	Security & Data Protection: Training records data was encrypted using AWS KMS, with versioning and replication rules for S3 buckets providing data recovery and security.
 
 # Deliverables
+
 **•	Cleaned Datasets:** 2024 training records stored in Amazon S3, ready for further academic analysis.
+
 **•	SQL Queries:** SQL scripts to query the training records data using Amazon Athena.
+
 **•	ETL Pipeline:** A weekly automated ETL pipeline to keep training records updated and clean.
+
 **•	Monitoring Dashboards:** AWS CloudWatch dashboards are used to track resource usage and ensure data security.
+
 
 # Cost & Sustainability
 •	Annual Cost: Estimated at approximately USD 40 for AWS services.
