@@ -89,7 +89,7 @@ Training Records Analysis for UCW Using AWS Cloud Services
 •	Analyze training efficiency and areas for improvement.
 •	Understand review patterns and academic compliance.
 
-# Dataset: 
+# Dataset
 **The dataset consists of:**
 **•	Training Records 2024:** Contains detailed entries of academic training records for 2024, including program performance metrics, student feedback, and review dates.
 
@@ -117,7 +117,7 @@ o	AWS CloudWatch
 o	AWS CloudTrail
 o	AWS KMS
 
-# •	Data Analysis:
+# •	Data Analysis
 o	Python (Pandas, NumPy)
 o	SQL (Amazon Athena)
 o	AWS Glue DataBrew for data cleaning and preparation
