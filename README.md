@@ -8,7 +8,7 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 **Objective:** To perform a detailed analysis of parking ticket data to:
 1.	Identify patterns of parking violations.
 2.	Analyze enforcement efficiency.
-3.	Determine compliance rates and reasons behind violations.
+3.	Determine compliance rates and reasons behind violations.</br>
 
 **Dataset:** The dataset consists of two parking ticket records:
 
