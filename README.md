@@ -1,6 +1,5 @@
 # data-analyst-siddheesh
-PARKING TICKETS ANALYSIS USING AWS CLOUD COMPUTING
-</br>
+PARKING TICKETS ANALYSIS USING AWS CLOUD COMPUTING </br>
 # Project Description
 This project analyzes the City of Vancouver parking ticket data for 2023 and 2024. Using AWS cloud services, the data was processed, cleaned, and analyzed to uncover insights into parking violations, enforcement patterns, and compliance rates.
 **Project Title:** Parking Tickets Analysis for the City of Vancouver Using AWS Cloud Services
