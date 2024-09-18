@@ -74,16 +74,8 @@ This project provided valuable insights into parking violations and compliance b
 
 
 
-
-
-
-
-
-
-
-
-
-# PROGRAM REVIEW ANALYSIS USING AWS CLOUD COMPUTING
+<br /><br /><br /><br />
+# TRAINING RECORDS - PROGRAM REVIEW ANALYSIS USING AWS CLOUD COMPUTING
 
 # Project Description
 This project analyzes training records data from the UCW Data Center, focusing on the academic domain. The data was processed, cleaned, and analyzed using AWS cloud services to uncover insights into program efficiency, student performance, and review trends.
