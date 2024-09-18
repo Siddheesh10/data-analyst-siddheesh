@@ -92,11 +92,17 @@ The dataset consists of:
 **•	Training Records 2024:** Contains detailed entries of academic training records for 2024, including program performance metrics, student feedback, and review dates.
 
 # Methodology
+
 **1.	Data Storage:** The training records data is securely stored in AWS S3, organized for efficient retrieval and analysis.
+
 **2.	Data Cleaning & Preparation:** AWS Glue DataBrew was used for cleaning, including removing duplicates, correcting inconsistencies, and ensuring a uniform structure.
+
 **3.	Data Pipeline:** A weekly updating ETL pipeline was created using AWS Glue, with the cleaned data stored in Amazon Redshift for further analysis.
+
 **4.	Data Analysis:** SQL queries in Amazon Athena were used to identify academic performance trends, highlight improvement areas, and analyze training records data.
+
 **5.	Data Security:** Encryption was applied using AWS KMS to ensure data privacy and compliance with academic standards.
+
 **6.	Data Monitoring:** AWS CloudWatch and CloudTrail were employed to monitor resource usage and ensure data governance and security.
 
 # Tools and Technologies
