@@ -17,8 +17,7 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 **Parking Tickets 2024:** 100 entries similar to the 2023 dataset, focusing on the same details.
 
 # Methodology
-**Data Storage:** Utilized AWS S3 for storing datasets in separate folders for 2023 and 2024.
-</br>
+**Data Storage:** Utilized AWS S3 for storing datasets in separate folders for 2023 and 2024.</br>
 **Data Cleaning & Preparation:** AWS Glue DataBrew was used to clean the dataset, removing duplicates and ensuring uniformity.
 </br>
 **Data Pipeline:** Created a weekly-updating ETL pipeline using AWS Glue and stored processed data in Amazon Redshift.
