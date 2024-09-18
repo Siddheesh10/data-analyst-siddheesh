@@ -11,14 +11,14 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 **Dataset:** The dataset consists of two parking ticket records:
 **Parking Tickets 2023:** 100 entries detailing the block, infraction type, bylaw section, status, and dates.
 **Parking Tickets 2024:** 100 entries similar to the 2023 dataset, focusing on the same details.
-</br>
+
 # Methodology
 **Data Storage:** Utilized AWS S3 for storing datasets in separate folders for 2023 and 2024.</br>
-**Data Cleaning & Preparation:** AWS Glue DataBrew was used to clean the dataset, removing duplicates and ensuring uniformity.
-**Data Pipeline:** Created a weekly-updating ETL pipeline using AWS Glue and stored processed data in Amazon Redshift.
-**Data Analysis:** Conducted SQL-based analysis using Amazon Athena to identify trends in violations, hotspots for tickets, and compliance behavior.
-**Data Security:** Implemented encryption using AWS KMS, ensuring data confidentiality and integrity.
-**Data Monitoring:** Used AWS CloudWatch and CloudTrail for resource monitoring, tracking user activity, and ensuring data governance.
+**Data Cleaning & Preparation:** AWS Glue DataBrew was used to clean the dataset, removing duplicates and ensuring uniformity.</br>
+**Data Pipeline:** Created a weekly-updating ETL pipeline using AWS Glue and stored processed data in Amazon Redshift.</br>
+**Data Analysis:** Conducted SQL-based analysis using Amazon Athena to identify trends in violations, hotspots for tickets, and compliance behavior.</br>
+**Data Security:** Implemented encryption using AWS KMS, ensuring data confidentiality and integrity.</br>
+**Data Monitoring:** Used AWS CloudWatch and CloudTrail for resource monitoring, tracking user activity, and ensuring data governance.</br>
 
 # Tools and Technologies
 **AWS Services:**
