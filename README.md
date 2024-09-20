@@ -25,9 +25,7 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 **Data Cleaning & Preparation:** AWS Glue DataBrew was used to clean the dataset, removing duplicates and ensuring uniformity.
 
 **Data Pipeline:** Created a weekly-updating ETL pipeline using AWS Glue and stored processed data in Amazon Redshift.
-![image](https://github.com/user-attachments/assets/e46fbe0e-6a2c-473b-bcc6-03c194294923)
-![image](https://github.com/user-attachments/assets/c45461f0-3b0c-4c8b-a906-e19169edc5f2)
-![image](https://github.com/user-attachments/assets/998779a3-21b5-484a-95c4-870ebfad6a71)
+![image](https://github.com/user-attachments/assets/7500fcf4-08c7-425a-bb17-5e57dc596eb6)
 
 **Data Analysis:** Conducted SQL-based analysis using Amazon Athena to identify trends in violations, hotspots for tickets, and compliance behavior.
 
