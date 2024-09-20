@@ -11,6 +11,7 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 3.	Determine compliance rates and reasons behind violations.
 
 **Dataset:** The dataset consists of two parking ticket records:
+![image](https://github.com/user-attachments/assets/0db19578-1d16-48bd-a1a7-4dc6e30dfb08)
 
 **Parking Tickets 2023:** 100 entries detailing the block, infraction type, bylaw section, status, and dates.
 
