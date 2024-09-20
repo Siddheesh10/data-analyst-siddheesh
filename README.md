@@ -28,8 +28,12 @@ This project analyzes the City of Vancouver parking ticket data for 2023 and 202
 ![image](https://github.com/user-attachments/assets/7500fcf4-08c7-425a-bb17-5e57dc596eb6)
 
 **Data Analysis:** Conducted SQL-based analysis using Amazon Athena to identify trends in violations, hotspots for tickets, and compliance behavior.
+![image](https://github.com/user-attachments/assets/59a0cca6-c956-491d-b880-814275ae1275)
 
 **Data Security:** Implemented encryption using AWS KMS, ensuring data confidentiality and integrity.
+![image](https://github.com/user-attachments/assets/e6af2027-94e0-4dbf-8dc8-538839b2bed3)
+Key Management Services (KMS) applied on Parking Tickets:
+![image](https://github.com/user-attachments/assets/76eb25fe-ba5e-4cb9-b5a0-c5726d6c50b7)
 
 **Data Monitoring:** Used AWS CloudWatch and CloudTrail for resource monitoring, tracking user activity, and ensuring data governance.
 
