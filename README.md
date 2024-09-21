@@ -58,6 +58,7 @@ Setting an Alarm:
 1.	Python (Pandas, NumPy)
 2.	SQL (Amazon Athena)
 3.	AWS Glue DataBrew for data cleaning and preparation
+    ![image](https://github.com/user-attachments/assets/ba8655cb-5209-4efc-8f16-a0de24efcbb1)
 
 
 # Key Features
@@ -68,6 +69,8 @@ Setting an Alarm:
 •	**Security & Data Protection:** Data was encrypted using AWS KMS, ensuring protection against unauthorized access.
 
 •	Versioning and replication rules for S3 buckets provided additional data recovery options.
+![image](https://github.com/user-attachments/assets/02f25f1e-9b2b-487e-8585-448725bb3f52)
+
 
 
 # Deliverables
@@ -81,7 +84,9 @@ Setting an Alarm:
 
 
 # Cost & Sustainability
-•	**Annual Cost:** Estimated at USD 209.55 for AWS services. For one dataset.
+•	**Annual Cost:** Estimated at USD 209.55 for AWS services. For one dataset. When My entire group did the analysis, we came up with a total annual cost of $838.20 (USD)
+![image](https://github.com/user-attachments/assets/56c1f342-6a79-44c5-9303-db60a62587e8)
+
 
 •	**Optimization:** Utilized cost-effective AWS services such as serverless computing (Athena, Glue) and S3 storage.
 
