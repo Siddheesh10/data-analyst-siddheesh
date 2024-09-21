@@ -36,16 +36,23 @@ Key Management Services (KMS) applied on Parking Tickets:
 ![image](https://github.com/user-attachments/assets/76eb25fe-ba5e-4cb9-b5a0-c5726d6c50b7)
 
 **Data Monitoring:** Used AWS CloudWatch and CloudTrail for resource monitoring, tracking user activity, and ensuring data governance.
+Dashboard:
+![image](https://github.com/user-attachments/assets/af672af8-9082-42be-9df1-d5d82fa065f8)
+Setting an Alarm:
+![image](https://github.com/user-attachments/assets/ef7f76cd-3d17-46f0-bb6f-e51ce199770f)
 
 # Tools and Technologies
 **AWS Services:**
+![image](https://github.com/user-attachments/assets/32da2a0c-1637-40e9-8f16-8364abd0652d)
+
 1.	Amazon S3
 2.	AWS Glue
 3.	Amazon Redshift
 4.	Amazon Athena
 5.	AWS CloudWatch
 6.	AWS CloudTrail
-7.	AWS KMS
+7.	AWS Key Management Service (KMS)
+8.	AWS IAM
 
 # Data Analysis:
 1.	Python (Pandas, NumPy)
