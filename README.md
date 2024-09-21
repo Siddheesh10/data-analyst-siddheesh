@@ -52,7 +52,7 @@ Setting an Alarm:
 5.	AWS CloudWatch
 6.	AWS CloudTrail
 7.	AWS Key Management Service (KMS)
-8.	AWS IAM
+8.	AWS Identity and Access Management (IAM)
 
 # Data Analysis:
 1.	Python (Pandas, NumPy)
